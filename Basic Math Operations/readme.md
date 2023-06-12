@@ -19,6 +19,10 @@
       <td>eg3.py</td>
       <td>Dot Product of "ndArray"</td>
     </tr>
+    <tr>
+      <td>eg4.py</td>
+      <td>Applying operations with scalar quantity on "ndArray"</td>
+    </tr>
   </tbody>
 </table>
 
