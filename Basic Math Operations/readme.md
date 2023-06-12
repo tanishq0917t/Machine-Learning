@@ -13,11 +13,11 @@
     </tr>
     <tr>
       <td>eg2.py</td>
-      <td>Row 2, Column 2</td>
+      <td>Cross Product of "ndArray"</td>
     </tr>
     <tr>
       <td>eg3.py</td>
-      <td>Row 3, Column 2</td>
+      <td>Dot Product of "ndArray"</td>
     </tr>
   </tbody>
 </table>
