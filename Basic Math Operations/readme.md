@@ -23,6 +23,10 @@
       <td>eg4.py</td>
       <td>Applying operations with scalar quantity on "ndArray"</td>
     </tr>
+    <tr>
+      <td>eg5.py</td>
+      <td>Creating Polynomial expression and evaluating it using numpy</td>
+    </tr>
   </tbody>
 </table>
 
