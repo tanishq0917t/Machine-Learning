@@ -31,6 +31,26 @@
       <td>eg6.py</td>
       <td>Creating Matrix using numpy and performing addition with different methods</td>
     </tr>
+    <tr>
+      <td>eg7.py</td>
+      <td>Demonstration of shape rule while adding matrices</td>
+    </tr>
+    <tr>
+      <td>eg8.py</td>
+      <td>Demonstration of creating a matrix with wrong dimenstions</td>
+    </tr>
+    <tr>
+      <td>eg9.py</td>
+      <td>Applying Multiplication in matrices, and what approach shouldn't be used</td>
+    </tr>
+    <tr>
+      <td>eg10.py</td>
+      <td>Applying different options on Matrix with a scalar quantity</td>
+    </tr>
+    <tr>
+      <td>eg11.py</td>
+      <td>Calculating Square of matrix and which method should be ignored</td>
+    </tr>
   </tbody>
 </table>
 
