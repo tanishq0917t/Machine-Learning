@@ -27,6 +27,10 @@
       <td>eg5.py</td>
       <td>Creating Polynomial expression and evaluating it using numpy</td>
     </tr>
+    <tr>
+      <td>eg6.py</td>
+      <td>Creating Matrix using numpy and performing addition with different methods</td>
+    </tr>
   </tbody>
 </table>
 
