@@ -53,51 +53,51 @@
     </tr>
     <tr>
       <td>eg12.py</td>
-      <td></td>
+      <td>Calculating Transpose of a Matrix using numpy</td>
     </tr>
     <tr>
       <td>eg13.py</td>
-      <td></td>
+      <td>Calculating Inverse of a Matrix using numpy</td>
     </tr>
     <tr>
       <td>eg14.py</td>
-      <td></td>
+      <td>Solving set of linear equations with Matrix</td>
     </tr>
     <tr>
       <td>eg15.py</td>
-      <td></td>
+      <td>Creating Identity Matrix using numpy</td>
     </tr>
     <tr>
       <td>eg16.py</td>
-      <td></td>
+      <td>Saving numpy Matrix in Binary Mode</td>
     </tr>
     <tr>
       <td>eg17.py</td>
-      <td></td>
+      <td>Loading Matrix from Binary File (.npy)</td>
     </tr>
     <tr>
       <td>eg18.py</td>
-      <td></td>
+      <td>Saving numpy Matrix in Text Mode</td>
     </tr>
     <tr>
       <td>eg19.py</td>
-      <td></td>
+      <td>Loading Matrix from Text File</td>
     </tr>
     <tr>
       <td>eg20.py</td>
-      <td></td>
+      <td>Saving Matrix in CSV file</td>
     </tr>
     <tr>
       <td>eg21.py</td>
-      <td></td>
+      <td>Loading Matrix from CSV file</td>
     </tr>
     <tr>
       <td>eg22.py</td>
-      <td></td>
+      <td>Creating compressed file for saving Matrix Data</td>
     </tr>
     <tr>
       <td>eg23.py</td>
-      <td></td>
+      <td>Loading Matrix data from a compressed file</td>
     </tr>
   </tbody>
 </table>
