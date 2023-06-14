@@ -51,6 +51,54 @@
       <td>eg11.py</td>
       <td>Calculating Square of matrix and which method should be ignored</td>
     </tr>
+    <tr>
+      <td>eg12.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg13.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg14.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg15.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg16.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg17.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg18.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg19.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg20.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg21.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg22.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg23.py</td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
