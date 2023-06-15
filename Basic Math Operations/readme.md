@@ -101,27 +101,27 @@
     </tr>
     <tr>
       <td>eg24.py</td>
-      <td></td>
+      <td>Splitting Matrix using numpy</td>
     </tr>
     <tr>
       <td>eg25.py</td>
-      <td></td>
+      <td>Determining Sparse Matrix using "scipy"</td>
     </tr>
     <tr>
       <td>eg26.py</td>
-      <td></td>
+      <td>Determining Sparse Matrix using Formula</td>
     </tr>
     <tr>
       <td>eg27.py</td>
-      <td></td>
+      <td>Finding Rank and Trace of matrix using numpy</td>
     </tr>
     <tr>
       <td>eg28.py</td>
-      <td></td>
+      <td>Calculating power of matrix using numpy</td>
     </tr>
     <tr>
       <td>eg29.py</td>
-      <td></td>
+      <td>Determining Eigen Values and Vectors using numpy</td>
     </tr>
   </tbody>
 </table>
