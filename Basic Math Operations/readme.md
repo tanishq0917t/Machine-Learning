@@ -99,5 +99,29 @@
       <td>eg23.py</td>
       <td>Loading Matrix data from a compressed file</td>
     </tr>
+    <tr>
+      <td>eg24.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg25.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg26.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg27.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg28.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg29.py</td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
