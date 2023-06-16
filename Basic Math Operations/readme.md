@@ -123,5 +123,53 @@
       <td>eg29.py</td>
       <td>Determining Eigen Values and Vectors using numpy</td>
     </tr>
+    <tr>
+      <td>eg30.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg31.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg32.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg33.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg34.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg35.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg36.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg37.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg38.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg39.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg40.py</td>
+      <td></td>
+    </tr>
+    <tr>
+      <td>eg41.py</td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
