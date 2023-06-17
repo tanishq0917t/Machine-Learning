@@ -11,7 +11,7 @@
     <tr>
       <td>eg1.py</td>
       <td>Basic Math operations on "ndArray"</td>
-      <td><img src="" alt="Cannot load image"></td>
+      <td><img src="https://github.com/tanishq1710h/Machine-Learning/blob/main/Matplotlib/outputs/eg1.png" alt="Cannot load image"></td>
     </tr>
   </tbody>
 </table>
