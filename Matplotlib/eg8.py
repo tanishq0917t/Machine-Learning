@@ -1,0 +1,16 @@
+import numpy
+import matplotlib.pyplot
+sales2020=numpy.random.randint(50000,size=12)
+sales2021=numpy.random.randint(50000,size=12)
+print(sales2020)
+print(sales2021)
+matplotlib.pyplot.plot(sales2020,color='r',label='2020')
+matplotlib.pyplot.plot(sales2021,color='g',label='2021')
+matplotlib.pyplot.xlabel("Months")
+matplotlib.pyplot.ylabel("Sales")
+matplotlib.pyplot.grid(True)
+matplotlib.pyplot.legend(loc="best")
+# matplotlib.pyplot.legend(loc="upper left")
+matplotlib.pyplot.xticks(range(12),range(1,13))
+matplotlib.pyplot.title("Sales Prediction for year 2021/2022")
+matplotlib.pyplot.show()
