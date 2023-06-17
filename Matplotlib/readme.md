@@ -14,38 +14,38 @@
       <td><img src="https://github.com/tanishq1710h/Machine-Learning/blob/main/Matplotlib/outputs/eg1.png" height="400px" width="400px" alt="Cannot load image"></td>
     </tr>
     <tr>
-      <td>eg1.py</td>
-      <td>Ploting a list using matplotlib.pyplot.plot()</td>
+      <td>eg2.py</td>
+      <td></td>
       <td><img src="https://github.com/tanishq1710h/Machine-Learning/blob/main/Matplotlib/outputs/eg2.png" height="400px" width="400px" alt="Cannot load image"></td>
     </tr>
     <tr>
-      <td>eg1.py</td>
-      <td>Ploting a list using matplotlib.pyplot.plot()</td>
+      <td>eg3.py</td>
+      <td></td>
       <td><img src="https://github.com/tanishq1710h/Machine-Learning/blob/main/Matplotlib/outputs/eg3.png" height="400px" width="400px" alt="Cannot load image"></td>
     </tr>
     <tr>
-      <td>eg1.py</td>
-      <td>Ploting a list using matplotlib.pyplot.plot()</td>
+      <td>eg4.py</td>
+      <td></td>
       <td><img src="https://github.com/tanishq1710h/Machine-Learning/blob/main/Matplotlib/outputs/eg4.png" height="400px" width="400px" alt="Cannot load image"></td>
     </tr>
     <tr>
-      <td>eg1.py</td>
-      <td>Ploting a list using matplotlib.pyplot.plot()</td>
+      <td>eg5.py</td>
+      <td></td>
       <td><img src="https://github.com/tanishq1710h/Machine-Learning/blob/main/Matplotlib/outputs/eg5.png" height="400px" width="400px" alt="Cannot load image"></td>
     </tr>
     <tr>
-      <td>eg1.py</td>
-      <td>Ploting a list using matplotlib.pyplot.plot()</td>
+      <td>eg6.py</td>
+      <td></td>
       <td><img src="https://github.com/tanishq1710h/Machine-Learning/blob/main/Matplotlib/outputs/eg6.png" height="400px" width="400px" alt="Cannot load image"></td>
     </tr>
     <tr>
-      <td>eg1.py</td>
-      <td>Ploting a list using matplotlib.pyplot.plot()</td>
+      <td>eg7.py</td>
+      <td></td>
       <td><img src="https://github.com/tanishq1710h/Machine-Learning/blob/main/Matplotlib/outputs/eg7.png" height="400px" width="400px" alt="Cannot load image"></td>
     </tr>
     <tr>
-      <td>eg1.py</td>
-      <td>Ploting a list using matplotlib.pyplot.plot()</td>
+      <td>eg8.py</td>
+      <td></td>
       <td><img src="https://github.com/tanishq1710h/Machine-Learning/blob/main/Matplotlib/outputs/eg8.png" height="400px" width="400px" alt="Cannot load image"></td>
     </tr>
   </tbody>
