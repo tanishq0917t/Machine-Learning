@@ -1,0 +1,19 @@
+import numpy
+a=numpy.matrix(((1,2,3,4),(5,6,7,8),(9,10,11,12),(13,14,15,16)))
+b=numpy.hsplit(a,2)
+print('a\n',a)
+print('b\n',b)
+c=b[0]
+d=b[1]
+print('c\n',c)
+print('d\n',d)
+e=numpy.vsplit(c,2)
+f=numpy.vsplit(d,2)
+g=e[0]
+h=e[1]
+i=f[0]
+j=f[1]
+print('g\n',g)
+print('h\n',h)
+print('i\n',i)
+print('j\n',j)
