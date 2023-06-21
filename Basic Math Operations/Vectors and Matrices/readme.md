@@ -113,7 +113,7 @@
     </tr>
     <tr>
       <td>eg27.py</td>
-      <td>Finding Rank and Trace of matrix using numpy</td>
+      <td>Finding Rank and Trace of a matrix using numpy</td>
     </tr>
     <tr>
       <td>eg28.py</td>
@@ -125,51 +125,51 @@
     </tr>
     <tr>
       <td>eg30.py</td>
-      <td></td>
+      <td>Creating a Matrix from a Sparse Matrix</td>
     </tr>
     <tr>
       <td>eg31.py</td>
-      <td></td>
+      <td>Flattening a Matrix</td>
     </tr>
     <tr>
       <td>eg32.py</td>
-      <td></td>
+      <td>Flattening using specific major (Row or Column)</td>
     </tr>
     <tr>
       <td>eg33.py</td>
-      <td></td>
+      <td>Reshaping Matrix from a Flattened Matrix</td>
     </tr>
     <tr>
       <td>eg34.py</td>
-      <td></td>
+      <td>Proof of Pointer Concept and Changes reflect from "b=a"</td>
     </tr>
     <tr>
       <td>eg35.py</td>
-      <td></td>
+      <td>Shallow Copy of a object</td>
     </tr>
     <tr>
       <td>eg36.py</td>
-      <td></td>
+      <td>View() function for a Matrix</td>
     </tr>
     <tr>
       <td>eg37.py</td>
-      <td></td>
+      <td>Proving Concept of View() function using id()</td>
     </tr>
     <tr>
       <td>eg38.py</td>
-      <td></td>
+      <td>arange() function</td>
     </tr>
     <tr>
       <td>eg39.py</td>
-      <td></td>
+      <td>numpy.random.randint()</td>
     </tr>
     <tr>
       <td>eg40.py</td>
-      <td></td>
+      <td>numpy.random.choice()</td>
     </tr>
     <tr>
       <td>eg41.py</td>
-      <td></td>
+      <td>apply_along_axis() function in numpy matrix</td>
     </tr>
   </tbody>
 </table>
