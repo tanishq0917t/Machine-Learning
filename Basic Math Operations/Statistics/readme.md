@@ -9,7 +9,23 @@
   <tbody>
     <tr>
       <td>eg1.py</td>
-      <td>Basic Math operations on "ndArray"</td>
+      <td>Computing Mean</td>
+    </tr>
+    <tr>
+      <td>eg2.py</td>
+      <td>Computing fMean (Basically it converts all values to float)</td>
+    </tr>
+    <tr>
+      <td>eg3.py</td>
+      <td>Computing Geometric Mean</td>
+    </tr>
+    <tr>
+      <td>eg4.py</td>
+      <td>Computing Harmonic Mean</td>
+    </tr>
+    <tr>
+      <td>eg5.py</td>
+      <td>Computing Median</td>
     </tr>
   </tbody>
 </table>
