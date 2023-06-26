@@ -7,3 +7,4 @@
 <img src="https://github.com/tanishq1710h/Machine-Learning/blob/main/Images/knnPlot2.png" alt="">
 <h3>Plot 2 Output</h3>
 <img src="https://github.com/tanishq1710h/Machine-Learning/blob/main/Images/knnPlot2Output.png" alt="">
+<h3>Joining Points which are the "K" Neighbours of the Query Point</h3>
